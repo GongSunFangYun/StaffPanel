@@ -175,8 +175,6 @@ Example: `[2024-01-20 14:30:45] [BAN] Admin --> RuleBreaker`
 - Java 8 or higher
 - Appropriate permissions configured for staff members
 
-# Build & Development
-
 ## Building from Source
 
 ### Prerequisites
