@@ -1,0 +1,59 @@
+name: StaffPanel
+main: cn.gsfy.StaffMain
+version: 1.3.3
+api: ["1.0.6"]
+author: GongSunFangYun
+description: A comprehensive staff management plugin with GUI support for Nukkit servers
+
+permissions:
+  staff.use:
+    description: Allows access to basic staff commands and GUI
+    default: op
+
+  staff.admin:
+    description: Full administrative access to all staff features
+    default: op
+
+  staff.ban:
+    description: Allows banning players
+    default: op
+
+  staff.unban:
+    description: Allows unbanning players
+    default: op
+
+  staff.mute:
+    description: Allows muting players
+    default: op
+
+  staff.unmute:
+    description: Allows unmuting players
+    default: op
+
+  staff.kick:
+    description: Allows kicking players
+    default: op
+
+  staff.warn:
+    description: Allows warning players
+    default: op
+
+  staff.kill:
+    description: Allows killing players
+    default: op
+
+  staff.tp:
+    description: Allows teleporting to players
+    default: op
+
+  staff.weaken:
+    description: Allows weakening players with effects
+    default: op
+
+  staff.log:
+    description: Allows viewing staff action logs
+    default: op
+
+  staff.check:
+    description: Allows checking player ban/mute records
+    default: op
