@@ -1,5 +1,10 @@
 # StaffPanel Plugin
 
+[![Stars](https://img.shields.io/github/stars/GongSunFangYun/StaffPanel?style=flat-square)]()
+[![Forks](https://img.shields.io/github/forks/GongSunFangYun/StaffPanel?style=flat-square)]()
+[![Issues](https://img.shields.io/github/issues/GongSunFangYun/StaffPanel?style=flat-square)]()
+[![License](https://img.shields.io/github/license/GongSunFangYun/StaffPanel?style=flat-square)]()
+
 ## Overview
 
 StaffPanel is a comprehensive administrative plugin for Nukkit servers that provides a powerful suite of staff management tools through both graphical user interfaces and console commands. Designed for server administrators and moderators, it offers robust player management capabilities with detailed logging and configuration systems.
