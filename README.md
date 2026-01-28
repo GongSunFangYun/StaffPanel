@@ -155,7 +155,7 @@ Searches across:
 ```
 [YYYY-MM-DD HH:mm:ss] [ACTION] Executor --> Target
 ```
-Example: `[2024-01-20 14:30:45] [BAN] Admin --> RuleBreaker`
+Example: `[2026-01-28 11:45:14] [BAN] Alex --> Steve`
 
 ### Effect Details
 - **Weaken**: Applies maximum level weakness (255), blindness (255), and slowness (2) effects
