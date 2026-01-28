@@ -4,7 +4,6 @@
 [![Forks](https://img.shields.io/github/forks/GongSunFangYun/StaffPanel?style=flat-square)]()
 [![Issues](https://img.shields.io/github/issues/GongSunFangYun/StaffPanel?style=flat-square)]()
 [![License](https://img.shields.io/github/license/GongSunFangYun/StaffPanel?style=flat-square)]()
-[![Resource](https://github.com/GongSunFangYun/StaffPanel)
 
 ## Overview
 
